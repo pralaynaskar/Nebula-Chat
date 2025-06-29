@@ -1,11 +1,10 @@
 # Nebula Chat
 
-Nebula Chat is a modern, multi-modal AI chat application built with Next.js and Genkit. It allows users to have conversations with Google's Gemini models, generate images, and manage their chat history.
+Nebula Chat is a modern, multi-modal AI chat application built with Next.js and Genkit. It allows users to have conversations with Google's Gemini models and manage their chat history.
 
 ## Features
 
 - **Multi-Modal Conversations:** Chat with text or upload images for context.
-- **Image Generation:** Create images directly from a text prompt.
 - **Conversation History:** All your chats are saved locally and can be accessed from the sidebar.
 - **Chat Management:** Rename or delete conversations to keep your history organized.
 - **Sleek UI:** A modern, dark-themed interface built with ShadCN UI and Tailwind CSS.
@@ -34,7 +33,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/nebula-chat.git
+    git clone https://github.com/pralaynaskar/nebula-chat.git
     cd nebula-chat
     ```
 
